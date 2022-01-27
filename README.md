@@ -4,3 +4,9 @@ It gathers all the links(URLs) for the products' pages, the products' prices, an
 Then lastly, downloads/saves all the first displayed images into the file named 'images'. 
 
 The first example has been run and all the scraped data can be found here.
+
+
+packs: 
+  selenium
+  urllib
+  xlsxwriter
